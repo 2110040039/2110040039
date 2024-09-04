@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://s4.aconvert.com/convert/p3r68-cdx67/aegb9-3idl7.jpg" alt="MasterHead" style="width: 100%; max-width: 100%; height: auto; margin-bottom: 20px;"/>
 </p>
-![Roopa Anche (3)](https://github.com/user-attachments/assets/b9e65328-74ba-4fc7-b5a9-d5ec1b8a14b5)
-
-
 
 <h1 align="center" style="font-family: 'Arial Black', sans-serif; font-size: 32px; margin-bottom: 10px;">Hi 👋, I'm Roopa Anche</h1>
 <h3 align="center" style="font-family: 'Helvetica', sans-serif; font-size: 18px; margin-bottom: 30px;">Passionate cybersecurity analyst and cloud engineer with expertise in cloud, networking, and machine learning.</h3>
