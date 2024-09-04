@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" style="font-family: 'Arial Black', sans-serif; font-size: 32px; margin-bottom: 10px;">Hi 👋, I'm Roopa Anche</h1>
-<h3 align="center" style="font-family: 'Helvetica', sans-serif; font-size: 18px; margin-bottom: 30px;">Passionate cybersecurity analyst and cloud engineer with expertise in cloud, networking, and machine learning.</h3>
+<h3 align="center" style="font-family: 'Helvetica', sans-serif; font-size: 18px; margin-bottom: 30px;">Software developer with expertise in cloud computing, networking, and machine learning. Skilled in building scalable applications and solving complex problems using advanced technologies.</h3>
 
 <p align="center" style="margin-bottom: 30px;">
   <img src="https://cdn.dribbble.com/users/650345/screenshots/3611517/media/e6992450c2c9778e7d8f1b2c564d109d.gif" alt="2110040039" width="250" style="border-radius: 10px;"/>
@@ -11,7 +11,7 @@
 
 <p align="center" style="font-family: 'Arial', sans-serif; font-size: 16px; margin-bottom: 20px;">
   🌱 I’m currently learning <strong>Azure Cloud</strong> <br/>
-  💬 Ask me about <strong>Networking, Machine Learning, Ethical Hacking</strong> <br/>
+  💬 Ask me about <strong>DSA, Machine Learning, Cyber Security</strong> <br/>
   📫 How to reach me <strong>rupaanche@gmail.com</strong><br/>
   ⚡ Fun fact <strong>"I'm like a digital magician—turning algorithms into reality!"</strong>
 </p>
@@ -47,9 +47,6 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   </a> 
@@ -61,15 +58,6 @@
   </a>
 </p>
 <p align="center" style="margin-bottom: 30px;">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a> 
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-  </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a> 
@@ -92,6 +80,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
   </a>
 </p>
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2110040039&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="350" style="margin-bottom: 30px;"/>
