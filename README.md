@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://s4.aconvert.com/convert/p3r68-cdx67/aqj6h-vd0gl.jpg" alt="MasterHead" style="width: 100%; max-width: 100%; height: auto; margin-bottom: 20px;"/>
+  <img src="https://i.imgur.com/q4UmVyF.png" alt="MasterHead" style="width: 100%; max-width: 100%; height: auto; margin-bottom: 20px;"/>
 </p>
 
 <h1 align="center" style="font-family: 'Arial Black', sans-serif; font-size: 32px; margin-bottom: 10px;">Hi 👋, I'm Roopa Anche</h1>
