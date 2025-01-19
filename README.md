@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" style="font-family: 'Arial Black', sans-serif; font-size: 32px; margin-bottom: 10px;">Hi 👋, I'm Roopa Anche</h1>
-<h3 align="center" style="font-family: 'Helvetica', sans-serif; font-size: 18px; margin-bottom: 30px;">Software developer with expertise in cloud computing, networking, and machine learning. Skilled in building scalable applications and solving complex problems using advanced technologies.</h3>
+<h3 align="center" style="font-family: 'Helvetica', sans-serif; font-size: 18px; margin-bottom: 30px;">Cybersecurity specialist with expertise in threat detection, vulnerability assessment, and incident management. Skilled in implementing robust security measures, conducting penetration testing, and leveraging advanced technologies to safeguard systems and networks against evolving cyber threats.</h3>
 
 <p align="center" style="margin-bottom: 30px;">
   <img src="https://cdn.dribbble.com/users/650345/screenshots/3611517/media/e6992450c2c9778e7d8f1b2c564d109d.gif" alt="2110040039" width="250" style="border-radius: 10px;"/>
