@@ -15,7 +15,8 @@
   📫 How to reach me <strong>rupaanche@gmail.com</strong><br/>
   ⚡ Fun fact <strong>"I'm like a cyber detective—uncovering threats and safeguarding the digital world!"</strong>
 </p>
-
+<!-- I'm like a digital magician—turning algorithms into reality!-->
+<!-- Software developer with expertise in cloud computing, networking, and machine learning. Skilled in building scalable applications and solving complex problems using advanced technologies.-->
 
 <h3 align="center" style="font-family: 'Arial Black', sans-serif; font-size: 20px; margin-bottom: 20px;">Connect with me:</h3>
 <p align="center" style="margin-bottom: 30px;">
