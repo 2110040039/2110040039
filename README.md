@@ -13,7 +13,7 @@
   🌱 I’m currently learning <strong>Azure Cloud</strong> <br/>
   💬 Ask me about <strong>DSA, Machine Learning, Cyber Security</strong> <br/>
   📫 How to reach me <strong>rupaanche@gmail.com</strong><br/>
-  ⚡ Fun fact <strong>"I'm like a digital magician—turning algorithms into reality!"</strong>
+  ⚡ Fun fact <strong>"I'm like a cyber detective—uncovering threats and safeguarding the digital world!"</strong>
 </p>
 
 
